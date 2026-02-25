@@ -1,2 +1,1 @@
-# Micro-ring-Wavelength-Locker
-the college students' innovation competition made by hust student
+the ty.m is a script used in matlab to calculate the snr and enob,others are normol vivado files
